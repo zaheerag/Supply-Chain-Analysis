@@ -25,3 +25,4 @@ This project provides a comprehensive analysis of supply chain metrics, includin
 ##  Repository Contents
 * `Supply_Chain_Analysis.ipynb`: Full commented code and interactive visualizations.
 * `supply_chain_data.csv`: The source dataset utilized for the analysis.
+* `visuals` : graphs produced in the project
